@@ -91,6 +91,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/lge/mako/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
     vendor/lge/mako/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
+	vendor/lge/mako/proprietary/lib/libfrsdk.so:system/vendor/lib/libfrsdk.so \
     vendor/lge/mako/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
     vendor/lge/mako/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/lge/mako/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
